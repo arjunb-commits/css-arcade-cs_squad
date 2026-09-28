@@ -8,6 +8,14 @@ SCENARIO 4 / 6 — Fraction Launch: We predicted "🅱 Duration of the animation
 SCENARIO 5 / 6 — The Snap-Back: We predicted "🅰 It stays 300px to the right" — INCORRECT (actual: 🅱 It snaps back to its starting position)
 SCENARIO 6 / 6 — The Missing Heart: We predicted "🅰 On top of the shirt at 140px / 110px" — INCORRECT (actual: 🅲 In normal flow, with top/left/z-index ignored)
 
+Flex-directions sets the main axis, and column stacks.
+
+2 column tracks are defined, and the browser places the extra cells by filling the row, then going to the next column.
+
+It should be at 0%, then appear and be stay red. Forward keyword controls that.
+
+Heart has no position value.
+
 Final Score: 2 / 6
 
 Link to cabinet:
