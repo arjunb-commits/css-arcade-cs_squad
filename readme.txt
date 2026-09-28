@@ -1,5 +1,5 @@
 LAYOUT PREDICTION BLITZ — TEAM FINDINGS REPORT
-Team Name: ______________________
+Team Name: CS Squad
 
 SCENARIO 1 / 6 — Cookie Menu Row: We predicted "🅱 One row; outer cards touch the edges, equal space between" — CORRECT (actual: 🅱 One row; outer cards touch the edges, equal space between)
 SCENARIO 2 / 6 — Tic-Tac-Toe Board: We predicted "🅰 A 3 × 3 board" — CORRECT (actual: 🅰 A 3 × 3 board)
@@ -20,3 +20,6 @@ Final Score: 2 / 6
 
 Link to cabinet:
 https://codd.cs.gsu.edu/~abaskar2/IC4/index.html
+
+Link to google doc:
+https://docs.google.com/document/d/1tuod3wciB_I1l9vysOh8R6kGDTMe7q73pCoxuKi4hD8/edit?usp=sharing
