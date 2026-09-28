@@ -10,3 +10,5 @@ SCENARIO 6 / 6 — The Missing Heart: We predicted "🅰 On top of the shirt at 
 
 Final Score: 2 / 6
 
+Link to cabinet:
+https://codd.cs.gsu.edu/~abaskar2/IC4/index.html
